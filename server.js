@@ -1,1 +1,3 @@
-console.log("Hello, World");
+/*
+Write a Progrom to pring 1 to 10
+*/
