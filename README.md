@@ -1,1 +1,6 @@
-## JAVASCRIPT FILE
+## Package.json
+
+```
+npm init -y
+```
+
