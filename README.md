@@ -14,7 +14,10 @@ let student = [
     "cgpa": 0.1
   },
   {
-    ...
-  }
+    "name" = "Potato",
+    "discount" = 24 % "off",
+    "quantity" = 5 "kg",
+    "price" = 49.4
+
+  },
 ]
-```
