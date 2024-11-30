@@ -9,15 +9,11 @@ Here is one Array of Object:
 ```
 let student = [
   {
-    "name" : "Rahul",
-    "roll_no" : 69,
-    "cgpa": 0.1
+    name : "Rahul",
+    roll_no : 69,
+    cgpa: 0.1
   },
   {
-    "name" = "Potato",
-    "discount" = 24 % "off",
-    "quantity" = 5 "kg",
-    "price" = 49.4
-
+    ...
   },
 ]

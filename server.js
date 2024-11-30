@@ -5,18 +5,20 @@ Go to the README.md File
 
 let product =  [
   {
-    name : "Potato",
-    image: "",
+    name : "Potato", 
+    image: "", 
     discount : 24,
     quantity : 5,
-    new_price : 49.4,
+    new_price : 49.4, 
     old_price: 65,
   },
   {
-    "name" : "Carrot",
+    // image key missing
+    // old_price missing
+    "name" : "Carrot", 
     "discount" : 53,
     "quantity" : 1 ,
-    "price" : 51.5
+    "price" : 51.5 // rename price as new_price
 
   },
 
