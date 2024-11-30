@@ -15,98 +15,98 @@ let product =  [
   {
     // image key missing
     // old_price missing
-    "name" : "Carrot", 
+    name : "Carrot", 
     image: "", 
-    "discount" : 53,
-    "quantity" : 1 ,
-    "new_price" : 51.5, // rename price as new_price
+    discount : 53,
+    quantity : 1 ,
+    new_price : 51.5, // rename price as new_price
 
   },
 
   {
     
-    "name" : "Ladies finger",
+  name : "Ladies finger",
     image: "", 
-    "discount" : 51,
-    "quantity" : 1 ,
-    "price" : 36,
+    discount : 51,
+    quantity : 1 ,
+    price : 36,
 
   },
 
   {
     
-    "name" : "Tomato",
+    name : "Tomato",
     image: "", 
-    "discount" : 39,
-    "quantity" : 2 * 1 ,
-    "price" : 92,
+    discount : 39,
+    quantity : 2 * 1 ,
+    price : 92,
 
   },
   {
     
-    "name" : "Cucumber",
+    name : "Cucumber",
     image: "", 
-    "discount" : 51,
-    "quantity" : 1 ,
-    "price" : 24,
+    discount : 51,
+    quantity : 1 ,
+    price : 24,
 
   },
   {
     
-    "name" : "Corainder",
+    name : "Corainder",
     image: "", 
-    "discount" : 20,
-    "quantity" : 100 ,
-    "price" : 12.06,
+    discount : 20,
+    quantity : 100 ,
+    price : 12.06,
 
   },
   {
     
-    "name" : "Cauliflower",
+    name : "Cauliflower",
     image: "", 
-    "discount" : 27,
-    "quantity" : 1 ,
-    "price" : 26,
-
-  },
-
-  {
-    
-    "name" : "Capcicum",
-    image: "", 
-    "discount" : 50,
-    "quantity" : 1 ,
-    "price" : 38,
+    discount : 27,
+    quantity : 1 ,
+    price : 26,
 
   },
 
   {
     
-    "name" : "Banana",
+    name : "Capcicum",
     image: "", 
-    "discount" : 23,
-    "quantity" : 1 ,
-    "price" : 70,
+    discount : 50,
+    quantity : 1 ,
+    price : 38,
 
   },
 
   {
     
-    "name" : "Bottle Gaurd",
+    name : "Banana",
     image: "", 
-    "discount" : 37,
-    "quantity" : 1 ,
-    "price" : 25,
+    discount : 23,
+    quantity : 1 ,
+    price : 70,
 
   },
 
   {
     
-    "name" : "Dasheri Mango",
+  name: "Bottle Gaurd",
     image: "", 
-    "discount" : 20,
-    "quantity" : 1 ,
-    "price" : 103.02,
+    discount : 37,
+    quantity : 1 ,
+    price : 25,
+
+  },
+
+  {
+    
+    name : "Dasheri Mango",
+    image: "", 
+    discount: 20,
+    quantity : 1 ,
+    price : 103.02,
 
   },
 ]
