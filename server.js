@@ -18,6 +18,14 @@ let product =  [
     "price" : 51.5
 
   },
+
+  {
+    "name" : "Ladies finger",
+    "discount" : 51,
+    "quantity" : 1 ,
+    "price" : 36
+
+  },
 ]
 
 console.log(product);
